@@ -5,10 +5,10 @@ int main() {
     int num1, num2, sum;
 
     // Prompt user for input
-    printf("Enter the first number: ");
+    printf("Enter the first number you wish to add: ");
     scanf("%d", &num1);
 
-    printf("Enter the second number: ");
+    printf("Enter the second number you wish to add: ");
     scanf("%d", &num2);
 
     // Calculate the sum
